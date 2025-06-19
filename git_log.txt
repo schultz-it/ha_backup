@@ -1,4 +1,4 @@
-[master d829836] config files on 17-06-2025 02:00:00
+[master 8c4eac0] config files on 18-06-2025 02:00:00
  Committer: root <root@homeassistant.local.hass.io>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -12,58 +12,4 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 55 files changed, 2 insertions(+), 13073 deletions(-)
- delete mode 100644 custom_components/alexa_media/.translations/ar.json
- delete mode 100644 custom_components/alexa_media/.translations/bg.json
- delete mode 100644 custom_components/alexa_media/.translations/bg_BG.json
- delete mode 100644 custom_components/alexa_media/.translations/de.json
- delete mode 100644 custom_components/alexa_media/.translations/en.json
- delete mode 100644 custom_components/alexa_media/.translations/es.json
- delete mode 100644 custom_components/alexa_media/.translations/fr.json
- delete mode 100644 custom_components/alexa_media/.translations/it.json
- delete mode 100644 custom_components/alexa_media/.translations/ja.json
- delete mode 100644 custom_components/alexa_media/.translations/nb.json
- delete mode 100644 custom_components/alexa_media/.translations/nl.json
- delete mode 100644 custom_components/alexa_media/.translations/pl.json
- delete mode 100644 custom_components/alexa_media/.translations/pt-BR.json
- delete mode 100644 custom_components/alexa_media/.translations/pt.json
- delete mode 100644 custom_components/alexa_media/.translations/pt_BR.json
- delete mode 100644 custom_components/alexa_media/.translations/pt_PT.json
- delete mode 100644 custom_components/alexa_media/.translations/ru.json
- delete mode 100644 custom_components/alexa_media/.translations/zh-Hans.json
- delete mode 100644 custom_components/alexa_media/__init__.py
- delete mode 100644 custom_components/alexa_media/alarm_control_panel.py
- delete mode 100644 custom_components/alexa_media/alexa_entity.py
- delete mode 100644 custom_components/alexa_media/alexa_media.py
- delete mode 100644 custom_components/alexa_media/binary_sensor.py
- delete mode 100644 custom_components/alexa_media/config_flow.py
- delete mode 100644 custom_components/alexa_media/const.py
- delete mode 100644 custom_components/alexa_media/exceptions.py
- delete mode 100644 custom_components/alexa_media/helpers.py
- delete mode 100644 custom_components/alexa_media/light.py
- delete mode 100644 custom_components/alexa_media/manifest.json
- delete mode 100644 custom_components/alexa_media/media_player.py
- delete mode 100644 custom_components/alexa_media/notify.py
- delete mode 100644 custom_components/alexa_media/sensor.py
- delete mode 100644 custom_components/alexa_media/services.py
- delete mode 100644 custom_components/alexa_media/services.yaml
- delete mode 100644 custom_components/alexa_media/strings.json
- delete mode 100644 custom_components/alexa_media/switch.py
- delete mode 100644 custom_components/alexa_media/translations/ar.json
- delete mode 100644 custom_components/alexa_media/translations/bg.json
- delete mode 100644 custom_components/alexa_media/translations/bg_BG.json
- delete mode 100644 custom_components/alexa_media/translations/de.json
- delete mode 100644 custom_components/alexa_media/translations/en.json
- delete mode 100644 custom_components/alexa_media/translations/es.json
- delete mode 100644 custom_components/alexa_media/translations/fr.json
- delete mode 100644 custom_components/alexa_media/translations/it.json
- delete mode 100644 custom_components/alexa_media/translations/ja.json
- delete mode 100644 custom_components/alexa_media/translations/nb.json
- delete mode 100644 custom_components/alexa_media/translations/nl.json
- delete mode 100644 custom_components/alexa_media/translations/pl.json
- delete mode 100644 custom_components/alexa_media/translations/pt-BR.json
- delete mode 100644 custom_components/alexa_media/translations/pt.json
- delete mode 100644 custom_components/alexa_media/translations/pt_BR.json
- delete mode 100644 custom_components/alexa_media/translations/pt_PT.json
- delete mode 100644 custom_components/alexa_media/translations/ru.json
- delete mode 100644 custom_components/alexa_media/translations/zh-Hans.json
+ 1 file changed, 56 insertions(+), 2 deletions(-)
